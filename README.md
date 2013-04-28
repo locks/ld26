@@ -1,4 +1,5 @@
-ld26
+Blue pill, red pill
 ====
 
-The most minimalistic game possible.
+This is my tongue-in-cheek game for the 26th edition of Ludum Dare.
+The theme was Minimalism.
